@@ -1,0 +1,22 @@
+{
+  "name": "GMD Ultra Power System",
+  "short_name": "GMD Power",
+  "description": "Professional API Key Generator with 512-bit Entropy.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0f1a",
+  "theme_color": "#1a2332",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2921/2921226.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2921/2921226.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
